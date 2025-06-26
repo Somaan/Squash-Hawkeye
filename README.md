@@ -21,4 +21,4 @@ Key Features
 - Official sports rules implementation
 
 ---
-*University of East Anglia - Final Year Project*
+*University of East Anglia - Ubiquitous Computing Project
